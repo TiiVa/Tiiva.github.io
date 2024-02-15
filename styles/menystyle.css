@@ -1,0 +1,13 @@
+
+img{
+    height: 100px;
+    width:150px;
+    margin-bottom: auto;
+}
+.nav-link {
+    color: white;
+}
+.list-group-item{
+padding: 0;
+font-family: 'Courier New', Courier, monospace;
+}
