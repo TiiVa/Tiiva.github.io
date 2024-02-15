@@ -1,11 +1,13 @@
-
+body{
+    background-color: ivory;
+}
 img{
     height: 100px;
     width:150px;
     margin-bottom: auto;
 }
 .nav-link {
-    color: white;
+    color: ivory;
 }
 .list-group-item{
 padding: 0;
